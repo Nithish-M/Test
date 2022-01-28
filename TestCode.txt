@@ -13,6 +13,12 @@ This is to Check Staging area
 
 
 
+
+This is in newone branch
+
 This is in newone branch
 
 Bla bla 
+
+Again edited in newone branch
+
