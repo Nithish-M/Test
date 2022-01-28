@@ -13,4 +13,10 @@ This is to Check Staging area
 
 
 
+<<<<<<< HEAD
 This is in newone branch
+=======
+This is in newone branch
+
+Bla bla 
+>>>>>>> newone
